@@ -1,4 +1,4 @@
-box: wercker/default@0.0.2
+box: jparyani/ubuntu14.04@1.0.1
 build:
   steps:
     - script:
